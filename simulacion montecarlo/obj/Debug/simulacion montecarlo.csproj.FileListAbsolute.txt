@@ -1,0 +1,7 @@
+C:\Users\Perly\source\repos\simulacion montecarlo\simulacion montecarlo\bin\Debug\simulacion montecarlo.exe.config
+C:\Users\Perly\source\repos\simulacion montecarlo\simulacion montecarlo\bin\Debug\simulacion montecarlo.exe
+C:\Users\Perly\source\repos\simulacion montecarlo\simulacion montecarlo\bin\Debug\simulacion montecarlo.pdb
+C:\Users\Perly\source\repos\simulacion montecarlo\simulacion montecarlo\obj\Debug\simulacion montecarlo.csproj.AssemblyReference.cache
+C:\Users\Perly\source\repos\simulacion montecarlo\simulacion montecarlo\obj\Debug\simulacion montecarlo.csproj.CoreCompileInputs.cache
+C:\Users\Perly\source\repos\simulacion montecarlo\simulacion montecarlo\obj\Debug\simulacion montecarlo.exe
+C:\Users\Perly\source\repos\simulacion montecarlo\simulacion montecarlo\obj\Debug\simulacion montecarlo.pdb
